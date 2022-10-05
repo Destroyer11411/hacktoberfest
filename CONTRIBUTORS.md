@@ -34,6 +34,14 @@
 - Bio: Second-year college student
 - GitHub: [Sujal Goswami](https://github.com/sujal-goswami)
 
+
+#### Name: [Rakesh} (https://github.com/destroyer11411)
+
+-place: Bangalore, India
+-Bio: Final year college student
+-Github: [Destroyer11411](https://github.com/destroyer11411)
+
+
 #### Name: [Jason Chen](https://github.com/jnchen12a)
 
 - Place: Gainesville, FL, USA
